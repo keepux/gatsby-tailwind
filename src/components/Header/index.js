@@ -153,17 +153,17 @@ const Header = () => {
                         </Link>
 
                         <Link
-                            to="/lorem"
+                            to="/logos"
                             className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white"
                         >
-                            Lorem
+                            Logos
                         </Link>
 
                         <Link
-                            to="/ipsum"
+                            to="/illustrations"
                             className="block md:inline-block mt-4 md:mt-0 no-underline text-white"
                         >
-                            Ipsum
+                            Illustrations
                         </Link>
                     </div>
                 </div>
